@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nanda Eka Nugraha</h1>
-<h3 align="center">Cyber Security Enthusiast | Network Engineer</h3>
-
+![Nanda Eka Nuraha](img/github-header-banner.png)
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Cyber+Security+Enthusiast;Network+Engineer;Information+Management+Student;Always+Learning+%26+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Cyber+Security;Network+Engineer;Information+Management+Student;Always+Learning+%26+Growing" alt="Typing SVG" />
 </p>
 
 ---
@@ -45,15 +43,6 @@
 
 - 🏅 **Sertifikat Industri – Dicoding**: Pemrograman Dasar Berstandar Industri *(Predikat: Kompeten)*
 - 🏅 **Sertifikat RSUD Nganjuk**: Peserta Orientasi Umum Praktik Kerja Lapangan (PKL) Teknik Komputer & Jaringan
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_KAMU&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
 
 ---
 
